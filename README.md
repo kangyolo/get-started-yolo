@@ -1,1 +1,1 @@
-# get-started-yolo
+# Get Started with YOLO Algorithm
