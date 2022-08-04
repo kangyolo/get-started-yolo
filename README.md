@@ -33,8 +33,7 @@ YOLOv3 can used for image and video (technically video is just a multiple images
 
 [YOLOv3 by Oki](https://github.com/kangyolo/yolov3)
 
-## Extract Class
-## Simple GUI
+#### Thank You! Enjoy your Journey!
 
 
 
